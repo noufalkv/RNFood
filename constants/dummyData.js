@@ -1,7 +1,7 @@
 const myProfile = {
     name: "ByProgrammers",
     profile_image: require("../assets/images/profile.png"),
-    address: "No. 88, Jln Padungan, Kuching"
+    address: "No. 88, Jln Padungan, KuchingKuchingKuchingKuchingKuching"
 }
 
 const categories = [
